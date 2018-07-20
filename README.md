@@ -36,7 +36,9 @@ This is based on a gentle exercise that I created to familiarize myself with an 
 
 After performing Step #1 in Getting Started, you can view the schema with `CALL db.schema()`. This will returns the following schema.
 
-![Schema](./assets/schema.png)
+<p align="center">
+  <img width="352" height="513" src="./assets/schema.png">
+</p>
 
 ### Thanks
 
