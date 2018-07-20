@@ -41,8 +41,7 @@ After performing Step #1 in Getting Started, you can view the schema with `CALL 
 ### Thanks
 
 * Modeling with [ACP Jones Arrows](http://www.apcjones.com/arrows/)
-* Powered by Cypher and Neo4j
-![Neo4j Icon](https://go.neo4j.com/rs/710-RRC-335/images/neo4j_logo.png)
+* Powered by Cypher and Neo4j ![Neo4j Icon](https://go.neo4j.com/rs/710-RRC-335/images/neo4j_logo.png)
 
 
 ## Contributing
